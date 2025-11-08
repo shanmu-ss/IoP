@@ -24,6 +24,6 @@ git status
 git commit -m "<mention message to display in the commits>"
 
 # push the code to remote repositories like github 
-git push --remote-origin <branch name>
+git push --set-upstream origin <branch name>
 
 ```
